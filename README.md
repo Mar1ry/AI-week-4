@@ -1,4 +1,5 @@
 *Project Overview*
+
 The project demonstrates a complete machine learning workflow covering theoretical concepts, practical implementation, automated testing, and results reporting. It focuses on developing and validating AI models while emphasizing testing methodologies and performance analysis.
 
 1) Core Components
