@@ -1,73 +1,65 @@
-_Project Overview_
+# 🎯 AI in Software Engineering Assignment  
+**Theme: Building Intelligent Software Solutions**   
 
-The project demonstrates a complete machine learning workflow covering theoretical concepts, practical implementation, automated testing, and results reporting. It focuses on developing and validating AI models while emphasizing testing methodologies and performance analysis.
+---
 
-1) Core Components
-Theoretical Foundations
+## 📝 **Assignment Breakdown**  
+| Component               | Deliverable          | Weight |  
+|-------------------------|----------------------|--------|  
+| Theoretical Analysis    | PDF Report           | 30%    |  
+| Code Implementation     | GitHub Repo          | 50%    |  
+| Ethical Reflection      | Markdown File        | 10%    |  
+| Presentation            | 3-min Video          | 10%    |  
 
-Fundamental ML concepts and algorithms
+---
 
-Model evaluation metrics (accuracy, precision, recall)
+## 🧠 **Part 1: Theoretical Analysis**  
 
-Bias-variance tradeoff analysis
+### Q1: AI Code Generation  
+**Benefits**:  
+```diff
++ 40% faster development time  
++ Context-aware suggestions
 
-Overfitting prevention techniques
+---
 
-Mathematical derivations of learning algorithms
+## 🤖 Part 2: Practical Implementation
 
+### 🔸 Task 1: AI-Powered Code Completion
 
-2) Automated Testing Framework
-📦 Test suites for ML model validation
+📂 **File:** `task1_code_completion.py`
 
-Unit tests for data preprocessing functions
+Description:  
+Python function to sort a list of dictionaries using both AI-generated and manual code.
 
-Integration tests for full ML pipelines
+---
 
-Performance threshold validation scripts
+### 🔸 Task 2: Automated Testing with AI
 
-Edge case handling tests
+📂 **File:** `task2_login_test.py`
 
-Test coverage reports
+Description:  
+Selenium-based automated test for login functionality (valid/invalid credentials).
 
+**Screenshots:**  
 
-3) Practical Implementation
-📓 End-to-end Jupyter notebook containing:
+✅ Valid Login:  
+![login screenshot](test_login.png)  
 
-Data loading and exploration
+❌ Invalid Login:  
+![Invalid screenshot](test_invalid.png)  
 
-Feature engineering pipelines
+---
 
+### 🔸 Task 3: Predictive Analytics for Resource Allocation
 
-4) Model implementation (likely classification models)
+📂 **File:** `task3_predictive_analytics.ipynb`
 
-Hyperparameter tuning
+Description:  
+Random Forest model trained on Breast Cancer Dataset to predict issue priority (high/medium/low).  
+Includes evaluation using accuracy and F1-score.
 
-Training/validation workflows
+📊 Graph:  
+![Task 3 Graph](task3_graph.png)
 
-Performance visualization (confusion matrices, ROC curves)
-
-Error analysis and interpretation
-
-
-5) Solution Reference
-
-Verified solutions to theoretical problems
-
-Implementation best practices
-
-Model optimization approaches
-
-Expected performance benchmarks
-
-
-6) Final Reporting
-
-Comparative model performance analysis
-
-Key findings and insights
-
-Visualization of results
-
-Limitations and challenges
-
-Future improvement suggestions
+---
